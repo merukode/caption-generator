@@ -118,7 +118,12 @@ export default function Home() {
               </div>
             )}
           </div>
+
+          
         </main>
+        <footer className='text-center'>
+            Made with 🍜 by Rama
+          </footer>
       </main>
     </div>
   );
